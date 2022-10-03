@@ -1,0 +1,454 @@
+- category: Alap
+  ingredients:
+  - 300 ml víz
+  - 5 ek oliva olaj
+  - 2 tk méz
+  - 500 g liszt
+  - csipet só
+  - 1 cs élesztő
+  name: Kenyér
+  recipe_id: 23dfed2c-cd71-4b2a-9fce-34c111614331
+  steps:
+  - Kenyér géppel 12-es fokozaton 1:10 alatt megdagasztjuk, és várakozás nélkül lisztes
+    deszkán újragyúrjuk.
+  - A kenyeret fedett jénaiba tesszük, megvagdossuk a tetejét, és a fedőt bevizezzük.
+  - Amint kész van, beindítjuk a sütőt 230 C-ra, és amint felmelegedett megy be a
+    kenyér.
+  - 230 C-n 15 perc utána
+  - 190 C-n 20 perc
+  - ''
+- category: Leves
+  ingredients:
+  - 400 ml víz + dashi por
+  - 2 ek miso
+  - 1 db retek (opcionális)
+  - 1 g (3-4 szem) szárított wakame
+  - 75 g tofu
+  - csipet snidling
+  name: Miso Leves
+  recipe_id: 9edc7c5d-45ff-43cf-a777-8f8eb1a8c62f
+  steps:
+  - Felforraljuk a vizet a dashi-val, majd hozzáadjuk a wakame-t. Ha kicsit már megszívta
+    magát belerakjuk a felkockázott
+  - tofut is, és hagyjuk forni 5-10 percig. Levesszük a tűzről és belerakjuk a miso-t,
+    és a snidlinget.
+  - ''
+- category: Leves
+  ingredients:
+  - TODO
+  name: Gulyás Leves
+  recipe_id: a2e85800-35ab-4dc3-8065-7066cde66657
+  steps:
+  - TODO
+  - ''
+- category: Leves
+  ingredients:
+  - Egy nagyobb zeller
+  - 3 közepes krumpli (kb amennyi zeller)
+  - 1 fej vöröshagyma
+  - 1 gerezd fokhagyma
+  - 1 csipet só
+  - 1 csipet bors
+  - Kevés oliva olaj
+  - 1 zöldség leves kocka
+  - 2 liter víz
+  - 1 vegán krém
+  name: Zellerkrém Leves
+  recipe_id: 9de0a27c-577e-4446-be57-101ac9268e8e
+  steps:
+  - Pucoljuk meg a krumplit és a zellert, majd daraboljuk fel. A hagymát vágjuk kockára
+    és pirítsuk meg az oliva olajon.
+  - Amikor üveges lesz adjuk hozzá a krumplit és a zellert és kicsit piritsuk meg.
+    Öntsük rá a vizet, és adjuk hozzá a fokhagymát
+  - a fűszereket és a leveskokát. Főzzük amíg meg nem puhul minden, és egy botmixerrel
+    csináljunk belőle krémlevest, és adjuk hozzá a vegán krémet.
+  - ''
+- category: Leves
+  ingredients:
+  - Egy nagyobb brokkoli
+  - 3 közepes krumpli (kb amennyi brokkoli)
+  - 1 fej vöröshagyma
+  - 1 gerezd fokhagyma
+  - 1 csipet só
+  - 1 csipet bors
+  - Kevés oliva olaj
+  - 1 zöldség leves kocka
+  - 2 liter víz
+  - 1 vegán krém
+  name: Brokkolikrém Leves
+  recipe_id: 1fd34e0e-e7cf-4180-b36d-8889d1836a2f
+  steps:
+  - Pucoljuk meg a krumplit és a brokkolit, majd daraboljuk fel. A hagymát vágjuk
+    kockára és pirítsuk meg az oliva olajon.
+  - Amikor üveges lesz adjuk hozzá a krumplit és brokkolit és kicsit piritsuk meg.
+    Öntsük rá a vizet, és adjuk hozzá a fokhagymát
+  - a fűszereket és a leveskokát. Főzzük amíg meg nem puhul minden, és egy botmixerrel
+    csináljunk belőle krémlevest, és adjuk hozzá a vegán krémet.
+  - ''
+- category: Desszert
+  ingredients:
+  - 400 g liszt
+  - 450 ml víz
+  - 400 ml szóda
+  - 1 evőkanál cukor
+  - 2 evőkanál étolaj
+  - 2 csipet friss élesztő
+  - 2 csipet só
+  name: Palacsinta
+  recipe_id: 52ed662f-5bd0-4168-b004-287b02651656
+  steps:
+  - Robotgéppel simára keverni az összetevőket, majd 10 percet állni hagyni (had dolgozzon
+    az élesztő).
+  - ''
+- category: Desszert
+  ingredients:
+  - 300 g liszt
+  - 50 g margarin
+  - 1 teáskanál sütőpor
+  - 250 ml szóda
+  - 250 ml szója tej
+  - 1 evőkanál cukor
+  - 1 csomag vanilliás cukor
+  - 1 csipet só
+  name: Amerikai Palacsinta
+  recipe_id: dade95a4-8380-43f4-aefd-8c42e34ac27e
+  steps:
+  - A tejhez adjuk hozzá a cukrot vanilliás cukrot, sót, és több részletben a sütőpor
+    liszt keveréket.
+  - Öntsük hozzá a szódát és az olvasztott margarint. Sűrű masszát kell kapni, ami
+    csomómentes, majd 5 percet állni hagyni.
+  - ''
+- category: Desszert
+  ingredients:
+  - 150g keksz
+  - 75g olvasztott margarin
+  - 850g vegán sajtkrém
+  - 400ml kókuszkrém
+  - 200g cukor
+  - 4 evőkanál kukoricakeményítő
+  - 1 evőkanál vanillia kivonat
+  - fél cirtom leve
+  - 150g fagyasztott málna
+  - 150g fagyasztott eper
+  - 2 evőkanál kukorica keményítő (2 evőkanálban feloldva)
+  - 2 evőkanál cukor ha kell
+  name: Sajttorta
+  recipe_id: b9e3a6cc-1fa5-4817-85ee-058f8e905374
+  steps:
+  - Melegítsük elő a sütőt 175 fokra, majd készítsünk elő egy tortaformát amit jól
+    kiolajozunk/sütőpapírozunk. Zuzzuk szét
+  - a kekszet apróra, majd az olvasztott margarinnal nyomkodjuk szét a tortaforma
+    alján. (Opcionálisan pirítsunk rá max 5 percre a sütőben).
+  - Keverjük össze a krém hozzávalóit és robotgéppel dolgozzuk el. A kész krémet öntsük
+    a keksz tetejére, majd a formát alufóliával
+  - körbevéve tegyük egy mélyebb tepsibe amiben víz van (kb ujjnyi). Tegyük a sütőbe
+    és hagyjuk sülni 1 órán át. Hagyjuk kihülni a tortát 1 órán át, és nyissuk ki
+    a sütőt.
+  - Tegyük a hűtőbe egy éjszakára, majd vegyük ki a formából. melegítsük a fagyasztott
+    gyümölcsöket, majd pürésítsük, ezt követően adjuk hozzá a többi alapanyagot,
+  - és forraljuk 1-2 percig, amíg be nem sűrűsödik.
+  - ''
+- category: Desszert
+  ingredients:
+  - 12.5 g margarin
+  - 12.5 g cukor
+  - 2 db tojás
+  - 250 g liszt
+  - 250 ml tej
+  - fél csomag sütőpor
+  - 1 csomag vanilliás cukor
+  - 1 citrom héja
+  name: Gofri
+  recipe_id: 611f3a4c-a1ef-41c4-b745-f0f739a23422
+  steps:
+  - Margarint a cukorral és a tojással habosra keverjük. Felváltva apránként hozzáadjuk
+    a sütőporral elkevert liszete
+  - és a tejet. Simára keverjük.
+  - ''
+- category: Desszert
+  ingredients:
+  - 140 g liszt
+  - 20 g kakópor
+  - 200 g cukor
+  - 80 ml olaj
+  - 1 teáskanál vanillia kivonat
+  - 200 g fekete csoki
+  - 240 ml növényi tej
+  - 75 g csokidarab
+  name: Brownie
+  recipe_id: 9d050aee-f098-4f90-a3e5-efd472d3b337
+  steps:
+  - Melegítsük elő a sütőt 180 fokra, és béleljünk ki egy mély tepsit sütőpapírral
+    (20cm^2). Keverjük össze a száraz alapanyagokat,
+  - aztán adjuk hozzá az olvasztott csokit és a folyékony ingredientsat. A végén forgassuk
+    bele a csoki darabokat. 25-30 perc alatt süssük meg.
+  - ''
+- category: Desszert
+  ingredients:
+  - 150 g margarin
+  - 120 g cukor
+  - 200 g liszt
+  - 2 teáskanál őrölt fahéj
+  - 1 citrom héjja
+  name: Fahéjas keksz
+  recipe_id: 9b242ed6-504c-42e8-bc33-cc09d17e87d7
+  steps:
+  - Az alapanyagokat jól keverjük össze, hogy keksz térsztát kapjunk, ha túl lágy
+    adjunk hozzá még egy kis lisztet.
+  - Melegítsük elő a sütőt 175 fokra és kis gömbőcöket alkotva és szétnyomkodva helyezzük
+    el a kekszeket egy zsirpapíros
+  - tepsin. 10 perc alatt süssük meg. kb 11 darab közepes méretű keksz lesz belőle.
+  - ''
+- category: Desszert
+  ingredients:
+  - 500 g liszt
+  - 150 g olaj
+  - 120 g cukor
+  - 1 teaáskanál sütőpor
+  - 8 evőkanál növényi tej
+  - 1 vanilliás cukor
+  - 2 kg alma
+  - 100 g cukor
+  - Kevés fahéj
+  - Kevés vanillia kivonat
+  name: Almás pite
+  recipe_id: a0715277-ae5f-48ae-b070-1c41fed563ff
+  steps:
+  - Reszeljük le a megpucolt almát, és nyomkodjuk ki a levét. Lábasban kevergetés
+    mellett forraljuk, amíg erős illata nem lesz
+  - és adjunk hozzá fahéjat és vanillia kivonatot. A többi tészta alapanyagot dolgozzuk
+    össze, egy gombócba, és melegítsük elő a sütőt 200 fokra.
+  - vágjuk ketté a gombócot, csináljunk egy alsó réteget, rá az alma majd felsőréteg.
+    30 perc alatt süssük meg.
+  - ''
+- category: Desszert
+  ingredients:
+  - 2 bögre liszt
+  - 1 zacskó sütőpor
+  - csipet só
+  - 3/4 bögre cukor
+  - 1 bögre szója tej
+  - 1/3 bögre laiva olaj
+  - 1 teáskanál vanillia kivonat
+  name: Muffin
+  recipe_id: 34dcd8de-514d-409f-90e2-8e12a1f1012b
+  steps:
+  - Keverjük össze a száraz alapanyagokat, majd a vizes alapanyagokat, végül keverjük
+    össze a kettőt. Ha szeretnénk adjunk hozzá
+  - óvatosan gyümölcsöt vagy csokit. Tegyük kanállal formába a tésztát, kb félig tele
+    őket. 175 fokra előmelegített sütőben
+  - 30 perc alatt süssük meg.
+  - ''
+- category: Főétel
+  ingredients:
+  - 1 kg marha lábszár / csirke combfilé
+  - 50 g gyömbér
+  - 1 gerezd fokhagyma
+  - 50 cl szójaszósz
+  - 4 ek olivaolaj
+  name: Gyömbéres Marhapörkölt
+  recipe_id: b23098d3-5015-4e15-b775-84f87084f96c
+  steps:
+  - Végjuk fel a húst kockákra, pucoljuk meg a gyömbért és a fokhagymát, majd zuzzuk
+    össze és reszeljük le. Kezdjük
+  - el piritani őket egy kis olajon, majd adjuk hozzá a húst kicsit pirulni. Miután
+    megpirult adjuk hozzá a szójaszószt
+  - és annyi vizet ami ellepi. Hagyjuk főni, amíg el nem készül a hús, majd ha szeretnénk
+    sűrítsük be egy kevés liszttel.
+  - ''
+- category: Főétel
+  ingredients:
+  - 500 g sushi rizs
+  - 55 ml rizsecet
+  - 20 g cukor
+  - 5 g só
+  - 5 lap algalap
+  - választható töltelék
+  name: Sushi
+  recipe_id: 39c002ed-662b-4c29-91eb-f469cc62d27f
+  steps:
+  - A rizsfőzővel készítsük el a rizst 20 perc alatt, majd lefedve hagyjuk további
+    20 percig. Eközben készítsük el a sushiba kerülő
+  - összetevőket,
+  - ''
+- category: Desszert
+  ingredients:
+  - TODO
+  name: Francia Csokitorta
+  recipe_id: d10bf9ef-8d2d-4b95-8b2e-69b3e60f820f
+  steps:
+  - TODO
+  - ''
+- category: Desszert
+  ingredients:
+  - TODO
+  name: Nudli
+  recipe_id: d7bac5e5-a702-4042-9dea-23b3ace6795e
+  steps:
+  - TODO
+  - ''
+- category: Köret
+  ingredients:
+  - TODO
+  name: Nokedli
+  recipe_id: 73a970d5-e6c0-4756-a5d8-d88d2aec70a5
+  steps:
+  - TODO
+  - ''
+- category: Alap
+  ingredients:
+  - TODO
+  name: Tortilla
+  recipe_id: 718ff991-a1de-4035-ac6a-95febca0b465
+  steps:
+  - TODO
+  - ''
+- category: Desszert
+  ingredients:
+  - TODO
+  name: Piskóta
+  recipe_id: 1493e9cd-f2ee-430e-bb16-aa0b994f6ef2
+  steps:
+  - TODO
+  - ''
+- category: Desszert
+  ingredients:
+  - TODO
+  name: Kalács
+  recipe_id: 309bba44-26cd-4ca1-b56d-8d946e90cad9
+  steps:
+  - TODO
+  - ''
+- category: Desszert
+  ingredients:
+  - TODO
+  name: Császármorzsa
+  recipe_id: 02783047-20a6-44e1-ab8d-415349fb5836
+  steps:
+  - TODO
+  - ''
+- category: Desszert
+  ingredients:
+  - TODO
+  name: Fánk
+  recipe_id: 73726998-0b15-46f6-98b4-681def53476a
+  steps:
+  - TODO
+  - ''
+- category: Desszert
+  ingredients:
+  - 200 g liszt
+  - 150 g cukor
+  - 75 g kakaó
+  - 1 evőkanál olaj
+  - 1 kiskanál vanilia aroma
+  - 450 ml vegán tej
+  name: CsokiTorta
+  recipe_id: 0ccefdf8-815d-4b93-8239-df843efdbcbd
+  steps:
+  - Keverd össze a száraz alapanyagokat, majd add hozzá az olajat és aromát. Keverd
+    hozzá fokozatosan a tejet amíg egy
+  - folyósabb sűrű masszát nem kapsz. Melegítsd elő a sütőt 170 fokra és bélelj ki
+    egy formát sütőpapírral. Süsd a tortát
+  - 40-45 percig, amíg nem ragad a tűpróbán. Ha égne a teteje tegyél rá alifóliát.
+  - ''
+- category: Desszert
+  ingredients:
+  - 350 g liszt
+  - 250 g margarin
+  - 150 g cukor
+  name: Linzer
+  recipe_id: c0e4ce4a-0bca-4c46-887d-2268c969073f
+  steps:
+  - Keverd össze az összetevőket majd nyújtsd ki vékonyra, és szaggasd ki. Süsd meg
+    őket tepsin 190 fokos sütőben 10-15 perc alatt.
+  - ''
+- category: Leves
+  ingredients:
+  - 1 vöröshagyma
+  - 2 csirkecomb
+  - 3-4 nagyobb répa
+  - 1-2 sárgarépa
+  - fél zeller
+  - 4-5 krumpli
+  - 2 kiskanál só
+  - 4 l vÍz
+  - 1 csipet bors
+  - 1 csipet bazsalikom
+  name: Húsleves
+  recipe_id: 14f82e7a-fb0a-46b1-b43d-662baf8620b6
+  steps:
+  - A csirkecsombot a hagymával tegyük fel egy kevés vízben főni és szedegessük le
+    a habot. Ha már nincs hab adjuk hozzá
+  - a fűszereket, zöldségeket és a maradék vizet. Hagyjuk felforni, és vegyük vissza
+    féllángra a hőt.
+  - ''
+- category: Köret
+  ingredients:
+  - 600 g borsó
+  - 150 ml víz
+  - 600 ml vegán tej
+  - 3 ek liszt
+  - 1 ek olaj
+  - 2 ek rizstejszin
+  name: BorsóFőzelék
+  recipe_id: adc4aa24-8cc0-4f9d-b05c-7dda0db1f6ba
+  steps:
+  - A borsót az olajon elkezdjük piritani, kicsit hagyjuk így majd felöntjük a vízzel
+    és 400 ml tejjel. Fűszerezzük oregánóval, bazsalikommal
+  - sóval borssal, és főzzük amíg meg nem puhul a borsó. A maradék tejet elkeverjük
+    a liszttel csomómentesre és hozzáadjuk a borsóhoz, majd
+  - sűrűsödésig főzzük.
+  - ''
+- category: Főétel
+  ingredients:
+  - 500 g csirkecomb filé
+  - 4 ek szójaszósz
+  - 2 ek pad thai szósz
+  - 1 gerezd fokhagyma
+  - 1 marék fafülgomba (opcionális)
+  - 1 marék rizstészta
+  - 1 közepes répa
+  - 1 fél ubrka
+  - 1 csipet só
+  - 2 ek rizsecet
+  - 2 ek halszósz
+  - 1 ek cukor
+  - 1 gerezd fokhagyma
+  - 150 ml víz
+  name: Bún
+  recipe_id: 4d35a6bd-018e-4b05-9187-5321ffd94270
+  steps:
+  - A csirkét a gerezd fokhagymával elkezdjük piritani, és amikior levet ereszt hozzáadjuk
+    a szójaszószt és a pad thai szószt.
+  - Amíg elforja a levét és megsül a hús tegyük vízbe ázni a rizstésztát, vágjuk kis
+    szeretekre az uborkát és a répát, valamint
+  - tegyük langyos vízbe a fafülgombát, ha szeretnénk. Miután elékszült a hús, forraljunk
+    vizet és 2 percig forró vízben főzzük a tésztát, majd szűrjük le.
+  - Készítsünk öntetet a rizsecet, halszósz, fokhagyma, cukor és vízből, amit forraljunk
+    a felére.
+  - ''
+- category: Leves
+  ingredients:
+  - 500 g csirke comb
+  - 4 kerezd fokhagyma
+  - 2 kk gyömbér
+  - 4 ek szezámolaj
+  - 60 g shiitake gomba
+  - 2 marok szárított fafül gomba
+  - 2 db húsleves kocka
+  - 3 l víz
+  - 8 ek szójaszósz
+  - 2 kk cukor
+  name: Rámen
+  recipe_id: 704ad241-2bb8-43b1-a505-140acf02470f
+  steps:
+  - Áztassuk be a gombákat 2 liter vízben kb 1 órára. Alacsony lángon tegyük fel pirulni
+    a szezámolajban az őrölt/reszelt
+  - gyömbért és fokhagymát, majd kb 5 perc után öntsük fel a gombák levével és még
+    1 liter vízzel. Tegyük bele a 2 leveskockát majd
+  - hagyjuk felforrni nagyobb lángon. Kockázzuk fel a csirkét és a gombát, majd ha
+    már forr a víz adjuk hozzá. Szedjük le ahabját,
+  - és hagjuk megfőni az alkotó elemeket. Miután kész a leves adjuk hoizzá a cukrot
+    és a szójaszószt.
+  - ''

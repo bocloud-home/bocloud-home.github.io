@@ -1,0 +1,28 @@
+.recipe-page {
+  width: 80%;
+  height: 90%;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  padding: .5rem;
+  position: fixed;
+}
+
+.recipe-header {
+  width: 100%;
+  height: 30%;
+}
+
+.recipe-header img {
+  width: 13rem;
+  height: 13rem;
+  position: absolute;
+}
+
+.recipe-title {
+  margin-left: 15rem;
+}
+
+.recipe-body {
+  width: 100%;
+  height: 70%;
+}
