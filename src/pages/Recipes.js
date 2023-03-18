@@ -1,7 +1,9 @@
 import React from 'react';
 import yaml from 'js-yaml';
 import { useState, useEffect } from 'react';
+import { Link } from "react-router-dom";
 import RecipeCard from '../components/RecipeCard.js';
+import RecipeController from '../RecipeController.js';
 import './Recipes.css';
 
 function selection(selected, setSelected, category, setSelectedRecipes, recipes) {
@@ -22,25 +24,33 @@ function download(recipes) {
   return href;
 }
 
+function base64Image(image_path) {
+  let canvas = document.createElement('canvas');
+  let img1 = document.createElement('img');
+  img1.setAttribute('src', image_path);
+  canvas.width = 208;
+  canvas.height = 208;
+  var ctx = canvas.getContext("2d");
+  ctx.drawImage(img1, 0, 0);
+  var dataURL = canvas.toDataURL("image/jpeg");
+  return dataURL;
+}
+
 const Recipes = () => {
     const [recipes, setRecipes] = useState([]);
     const [categories, setCategories] = useState([]);
     const [selected, setSelected] = useState([]);
     const [selectedRecipes, setSelectedRecipes] = useState([]);
     useEffect(() => {
-      fetch("/recipes.yml")
-      .then(
-        (result) => {
-          result.text().then( (data) => {
-            setRecipes(yaml.load(data));
-            setSelectedRecipes(yaml.load(data));
-            setCategories(yaml.load(data).map(r => r.category).filter((v, i, self) => self.indexOf(v) === i));
-          });
-        },
-        (error) => {
-          console.log(error);
-        }
-      )
+      const recipeSettings = async () => {
+          var controller = new RecipeController();
+          var tmpRecipes = await controller.list();
+          console.log(tmpRecipes);
+          setRecipes(tmpRecipes);
+          setSelectedRecipes(tmpRecipes);
+          setCategories(tmpRecipes.map(r => r.category).filter((v, i, self) => self.indexOf(v) === i));
+      }
+      recipeSettings();
     }, []);
     return (<div>
         <h1>Recipes</h1>
@@ -48,12 +58,14 @@ const Recipes = () => {
           <p>Filters
           <div className="function-buttons">
             <a className="create-button">
+            <Link to={`/recipe/create`}>
               <i className="bi bi-plus"></i>
               Create
+            </Link>
             </a>
-            <a href={`data:text/yaml;charset=utf-8,${encodeURIComponent(
-              yaml.dump(recipes, 2)
-            )}`} className="export-button" download="recipes.yml">
+            <a href={`data:application/json;charset=utf-8,${encodeURIComponent(
+              JSON.stringify(recipes)
+            )}`} className="export-button" download="recipes.json">
               <i className="bi bi-cloud-download"></i>
               Export
             </a>

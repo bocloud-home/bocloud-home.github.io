@@ -1,0 +1,61 @@
+.editRecipe, .editSection {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #333;
+  align-items: center;
+  text-align: center;
+  position: fixed;
+  overflow: scroll;
+}
+
+.editSection form {
+  display: inline-block;
+  justify-content: center;
+  margin-top: 5rem;
+  background-color: white;
+  padding: 30px;
+  overflow: scroll;
+}
+
+.editSection form input, select {
+  display: block;
+  width: 20rem;
+  padding: 0.5rem;
+  font-size: 1.1em;
+  font-weight: 500;
+  margin-bottom: 0.3rem;
+}
+
+.editSection form label {
+  padding: 0.5rem;
+  display: block;
+}
+
+.addButton {
+  border: none;
+  padding: 1rem;
+  width: 10rem;
+  font-size: 1em;
+  border-radius: 1rem;
+  margin-right: auto;
+  cursor: pointer;
+}
+.submitButton {
+  border: none;
+  padding: 1rem;
+  width: 21.2rem;
+  font-size: 1.2em;
+  border-radius: 0.2rem;
+  cursor: pointer;
+}
+.submitButton:hover {
+  background-color: #c5c5c5;
+}
+
+.editSection form .message {
+  font-size: 1.2em;
+  text-align: center;
+  color: #36a936;
+}

@@ -4,8 +4,14 @@ import './NavBar.css';
 import logo from '../assets/logo.png';
 import React from 'react';
 
-function NavBar() {
+function NavBar(props) {
     const [inactive, setInactive] = useState(false);
+
+    function openOrClose() {
+      setInactive(!inactive);
+      console.log(props);
+      props.open(inactive);
+    }
 
     return (
     <>
@@ -15,8 +21,8 @@ function NavBar() {
             <img src={logo} alt="bocloud"/>
           </div>
           <div className="toggle-menu">
-            <i onClick={() => setInactive(!inactive)} className={`bi bi-backspace ${inactive ? "inactive" : ""}`}></i>
-            <i onClick={() => setInactive(!inactive)} className={`bi bi-backspace-reverse ${inactive ? "" : "inactive"}`}></i>
+            <i onClick={() => openOrClose()} className={`bi bi-backspace ${inactive ? "inactive" : ""}`}></i>
+            <i onClick={() => openOrClose()} className={`bi bi-backspace-reverse ${inactive ? "" : "inactive"}`}></i>
           </div>
         </div>
         <div className="search-controller">

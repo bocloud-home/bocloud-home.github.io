@@ -2,6 +2,7 @@ import React from 'react';
 import { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
 import yaml from 'js-yaml';
+import { Link } from "react-router-dom";
 import './Recipe.css';
 
 function Recipe() {
@@ -32,6 +33,10 @@ function Recipe() {
           </div>
         </div>
         <div className="recipe-body">
+          <Link to={`/recipe/edit/${recipe.recipe_id}`}>
+              <i className="bi bi-pencil"></i>
+              Edit
+          </Link>
           <div className="recipe-ingredients">
             <h2>Ingredients:</h2>
             <ul>

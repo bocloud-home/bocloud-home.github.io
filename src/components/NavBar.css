@@ -50,7 +50,6 @@ nav.inactive .top-section .toggle-menu {
 .NavMenu {
   display: flex;
   margin-right: .1rem;
-  height: 100%;
   flex-direction: column;
 }
 

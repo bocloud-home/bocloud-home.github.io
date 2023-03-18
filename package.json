@@ -1,7 +1,7 @@
 {
-  "name": "home.bocloud.github.io",
+  "name": "bocloud-home.github.io",
   "version": "0.1.0",
-  "homepage": "https://borlayda.github.io",
+  "homepage": "https://bocloud-home.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -13,10 +13,12 @@
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.4.0",
     "react-scripts": "^2.1.8",
+    "react-modal": "^3.16.1",
     "read-yaml": "^1.1.0",
     "styled-components": "^5.3.5",
     "web-vitals": "^2.1.4"
   },
+  "proxy": "http://0526c103.dsl.pool.telekom.hu:5000",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
